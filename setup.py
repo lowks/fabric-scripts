@@ -36,7 +36,7 @@ setup(name='fabric-scripts',
       author="paulocheque",
       author_email='paulocheque@gmail.com',
       keywords='python django testing fixture',
-      description='',
+      description='fabric-scripts',
       license='MIT',
       classifiers=[
           'Framework :: Django',
